@@ -446,5 +446,5 @@ gsap.to("#page3",{
 const gitHubButton = document.getElementById('github');
 
 gitHubButton.onclick = function (){
-  window.open("https://www.github.com","_self");
+  window.open("https://www.github.com/harshitv54/","_self");
 }
